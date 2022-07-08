@@ -1,10 +1,10 @@
 # The Shoebox
 
 Flutter application for online shopping.
-1. Simple online shopping application using prodcuct API.
-2. All prodcut view 
-3. single prodcut information page 
-4. Shopping cart
+1. Simple online shopping application using prodcuct API. - get data from http  get request
+2. Home Screen -All prodcut view 
+3. Prodcut information page - Information about each product 
+4. Shopping cart - list of products / add / remove options from shopping card
 
 
 
